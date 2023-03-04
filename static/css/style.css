@@ -1,0 +1,150 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #1c1f2b;
+color: #fff;
+}
+.header {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+padding: 20px;
+background-color: #13161f;
+}
+.header a {
+margin-left: 20px;
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+}
+.navigation {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px;
+background-color: #13161f;
+color: #fff;
+position: sticky;
+top: 0;
+z-index: 1;
+}
+.navigation a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.navigation a:hover {
+    background-color: #fff;
+    color: #333;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navigation select {
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: #d6e9f7;
+    color: #333;
+    cursor: pointer;
+    width: 50%;
+}
+
+
+
+.tile {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    height: 200px;
+    background-color: #13161f;
+    margin-bottom: 20px;
+    width: 220px;
+}
+.tile h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    margin: 0;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #13161f;
+    color: #fff;
+    }
+.tile h1 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+.repo {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 20px;
+    background-color: transparent;
+  }
+  
+  .repo h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .repo h2 {
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: start;
+    padding-left: 20vh;
+    padding-right: 20vh;
+  }
+  
+  .repo p {
+    margin-left: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: start;
+    padding-left: 20vh;
+    padding-right: 20vh;
+  }
+  
+  
+.repo .logo img {
+width: 80px;
+height: 80px;
+transition: transform 0.3s ease-in-out;
+}
+
+.repo .logo img {
+display: flex;
+justify-content: left;
+margin-right: 10px;
+padding-left: 20vh;
+
+}
+
+
+.repo.logo img:hover {
+transform: rotate(360deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
