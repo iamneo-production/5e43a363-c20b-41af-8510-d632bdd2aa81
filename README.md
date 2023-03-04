@@ -49,7 +49,7 @@ To develop solutions that can predict the occurrence of heat waves and the Air Q
 
 Clone the repository using the following command:
 ```bash
-git clone https://github.com/Adi0015/TheScripter-s.git
+git clone https://github.com/iamneo-production/5e43a363-c20b-41af-8510-d632bdd2aa81.git
 ```
 Change directory to the project directory:
 ```bash
