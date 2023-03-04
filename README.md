@@ -69,6 +69,20 @@ python3 app.py
 ```
 ## Screenshots
 
+![f617c9b1-b578-4faf-9239-fabeda7262a3](https://user-images.githubusercontent.com/96522398/222923174-428ce240-e092-47a2-a948-85537946566e.jpg)
+
+![f857c707-0a6d-4c4a-a086-c8c7f2f8dff3](https://user-images.githubusercontent.com/96522398/222923182-d65e8bb5-d464-4e76-8bdc-802224ad62e7.jpg)
+
+![512698fd-8730-49c1-845d-7649ef82b372](https://user-images.githubusercontent.com/96522398/222923200-70626cac-b87a-4784-ba6f-5b9b26cfa2b9.jpg)
+
+![147c2c4e-5f69-4126-b8f8-c04e818486f4](https://user-images.githubusercontent.com/96522398/222923207-705e69cf-89cd-4c21-99a0-9f92eb385d35.jpg)
+
+![6595592a-9c7c-4173-b9bc-6d7a3775a7c3](https://user-images.githubusercontent.com/96522398/222923223-dd558d97-c03f-4e49-9f93-477ad665498b.jpg)
+
+![b8889171-3395-4f7a-a288-e0eba3adf30e](https://user-images.githubusercontent.com/96522398/222923249-f3c67b10-e49a-457b-8276-7a47a094d4aa.jpg)
+
+![ac20d546-1a3f-4155-9d6c-6c9b5dd263f9](https://user-images.githubusercontent.com/96522398/222923257-014adf01-4f73-41b8-861c-0fffb4ac01e0.jpg)
+
 
 ### Team Members
 
