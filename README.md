@@ -53,7 +53,7 @@ git clone https://github.com/iamneo-production/5e43a363-c20b-41af-8510-d632bdd2a
 ```
 Change directory to the project directory:
 ```bash
-cd TheScripter's
+cd 5e43a363-c20b-41af-8510-d632bdd2aa81
 ```
 Activate the virtual environment:
 ```bash
